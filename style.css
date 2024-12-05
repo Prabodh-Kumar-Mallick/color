@@ -1,0 +1,147 @@
+#r{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: rgb(254, 2, 2);
+    animation-name: rr;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes rr {
+    from{width: 20px;}
+    to{width: 1300px;}
+    
+    from{background-color: red;}
+    t{background-color: blue;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+
+}
+#par{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: purple;
+    animation-name: pur;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes pur {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: purple;}
+    t{background-color: yellow;}
+    
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+}
+#g{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: greenyellow;
+    animation-name: gg;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes gg {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: greenyellow;}
+    t{background-color: orange;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+    
+}
+
+#p{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: pink;
+    animation-name: pp;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes pp {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: pink;}
+    t{background-color: green;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+    
+}
+
+#o{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: orange;
+    animation-name: oo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes oo {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: orange;}
+    t{background-color: greenyellow;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+    
+}
+#b{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: blue;
+    animation-name: bb;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes bb {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: blue;}
+    t{background-color: red;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+    
+}
+#y{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: yellow;
+    animation-name: yy;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+   
+}
+@keyframes yy {
+    from{width: 20px;}
+    to{width: 1300px;}
+
+    from{background-color: yellow;}
+    t{background-color: purple;}
+
+    from{border: 2px solid white;}
+    to{border: 2px solid black;}
+    
+}
